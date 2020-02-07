@@ -1,0 +1,17 @@
+*.iml
+.gradle
+/MQTTAndroidClient/local.properties
+/MQTTAndroidClient/.idea/caches/build_file_checksums.ser
+/MQTTAndroidClient/.idea/libraries
+/MQTTAndroidClient/.idea/modules.xml
+/MQTTAndroidClient/.idea/workspace.xml
+/MQTTAndroidClient/.DS_Store
+/MQTTAndroidClient/build
+/MQTTAndroidClient/captures
+/MQTTAndroidClient/.externalNativeBuild
+/BackHaulServer/.idea
+/BackHaulServer/target
+/EdgeServerPahoClient/.idea
+/EdgeServerPahoClient/target
+/MQTTAndroidClient/.idea
+/README_MYSQL/.idea
